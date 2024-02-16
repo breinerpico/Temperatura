@@ -11,6 +11,7 @@ C:Grados centigrado
 Variables de proceso y salida (processing, storage, output)
 
 F:Grados farenheit
+
 K:Grados kelvin
 
 # DISEÑO
